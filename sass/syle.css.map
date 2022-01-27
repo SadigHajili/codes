@@ -1,0 +1,13 @@
+{
+    "version": 3,
+    "mappings": "AEAA,AAAA,MAAM,CAAC;EACH,OAAO,EAAE,QAAQ;EACjB,aAAa,EAAE,SAAS;CAe3B;;AAjBD,AAOoB,MAPd,CAGF,GAAG,CACC,SAAS,CACL,EAAE,CACE,EAAE,CACE,CAAC,CAAC;EACE,SAAS,EAAE,IAAI;EACf,OAAO,EAAE,oBAAoB;EAC7B,KAAK,EDVhB,OAAO,CCUuB,UAAU;EAC7B,WAAW,EAAE,cAAc;CAC9B;;ACZrB,AAAA,IAAI,CAAC;EACD,MAAM,EAAE,KAAK;CAChB;;AHED,AAAA,IAAI,CAAC;EACD,MAAM,EAAE,MAAM;CACjB;;AAED,AAAA,cAAc,CAAC;EACX,OAAO,EAAE,IAAI;EACb,WAAW,EAAE,MAAM;EACnB,eAAe,EAAE,YAAY;CAChC",
+    "sources": [
+        "syle.scss",
+        "_variables.scss",
+        "_header.scss",
+        "_main.scss",
+        "_footer.scss"
+    ],
+    "names": [],
+    "file": "syle.css"
+}
